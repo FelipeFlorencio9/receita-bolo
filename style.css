@@ -36,3 +36,13 @@ main {
 .foto-bolo{
     width: 360px;
 }
+
+.ingredientes-container{
+    background-color: tomato;
+    width: 800px;
+    
+}
+
+.ingredientes-container ul{
+    padding-left: 32px;
+}
